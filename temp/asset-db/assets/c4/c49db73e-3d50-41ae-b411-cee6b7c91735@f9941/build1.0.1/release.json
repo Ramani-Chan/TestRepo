@@ -1,0 +1,53 @@
+[
+    1,
+    [
+        "c4nbc+PVBBrrQRzua3yRc1@6c48a"
+    ],
+    [
+        "_textureSource"
+    ],
+    [
+        "cc.SpriteFrame"
+    ],
+    0,
+    [
+        {
+            "name": "player",
+            "rect": {
+                "x": 17,
+                "y": 112,
+                "width": 967,
+                "height": 764
+            },
+            "offset": {
+                "x": 0.5,
+                "y": 6
+            },
+            "originalSize": {
+                "width": 1000,
+                "height": 1000
+            },
+            "rotated": false,
+            "capInsets": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "packable": true
+        }
+    ],
+    [
+        0
+    ],
+    0,
+    [
+        0
+    ],
+    [
+        0
+    ],
+    [
+        0
+    ]
+]

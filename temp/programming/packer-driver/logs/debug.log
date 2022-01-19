@@ -1,0 +1,572 @@
+debug: Wed, 19 Jan 2022 07:03:54 GMT
+debug: Project: D:\Cocos\Projects\NewProject_1
+debug: Targets: editor,preview
+debug: Incremental file seems great.
+debug: Engine path: C:\Cocoseditor\resources\resources\3d\engine
+debug: Initializing target [Editor]
+debug: Loading cache
+debug: Loading cache costs 19.233690000139177ms.
+debug: Engine features shipped in editor: base,gfx-webgl,gfx-webgl2,3d,2d,ui,particle,particle-2d,physics-framework,physics-2d-framework,intersection-2d,primitive,profiler,audio,video,terrain,webview,tween,tiled-map,spine,dragon-bones,marionette
+debug: Initializing target [Preview]
+debug: Loading cache
+debug: Loading cache costs 18.711109000025317ms.
+debug: Sync engine features: base,gfx-webgl,gfx-webgl2,2d,ui,physics-2d-box2d,intersection-2d,profiler,particle-2d,audio,video,webview,tween,tiled-map,spine,dragon-bones,marionette
+debug: Pulling asset-db.
+debug: Fetch asset-db cost: 35.70463900011964ms.
+debug: Build iteration starts.
+Number of accumulated asset changes: 3
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/cc. Last mtime: Thu Jan 01 1970 05:31:11 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:30:24 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/cc
+debug: Resolve cce:/internal/x/cc-fu/base from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/base.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl2 from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl2.
+debug: Resolve cce:/internal/x/cc-fu/3d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/3d.
+debug: Resolve cce:/internal/x/cc-fu/2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/2d.
+debug: Resolve cce:/internal/x/cc-fu/ui from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/ui.
+debug: Resolve cce:/internal/x/cc-fu/particle from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/particle.
+debug: Resolve cce:/internal/x/cc-fu/particle-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/particle-2d.
+debug: Resolve cce:/internal/x/cc-fu/physics-framework from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-framework.
+debug: Resolve cce:/internal/x/cc-fu/physics-2d-framework from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-2d-framework.
+debug: Resolve cce:/internal/x/cc-fu/intersection-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/intersection-2d.
+debug: Resolve cce:/internal/x/cc-fu/primitive from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/primitive.
+debug: Resolve cce:/internal/x/cc-fu/profiler from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/profiler.
+debug: Resolve cce:/internal/x/cc-fu/audio from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/audio.
+debug: Resolve cce:/internal/x/cc-fu/video from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/video.
+debug: Resolve cce:/internal/x/cc-fu/terrain from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/terrain.
+debug: Resolve cce:/internal/x/cc-fu/webview from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/webview.
+debug: Resolve cce:/internal/x/cc-fu/tween from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tween.
+debug: Resolve cce:/internal/x/cc-fu/tiled-map from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tiled-map.
+debug: Resolve cce:/internal/x/cc-fu/spine from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/spine.
+debug: Resolve cce:/internal/x/cc-fu/dragon-bones from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/dragon-bones.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 10:46:10 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:30:49 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Inspect file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts
+debug: Inspect file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts
+debug: Inspect file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Detected change: cce:/internal/code-quality/cr.mjs. Last mtime: Tue Jan 18 2022 22:03:28 GMT+0530 (India Standard Time), Current mtime: Wed Jan 19 2022 12:33:30 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/code-quality/cr.mjs
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts as cce:/internal/x/cc.
+debug: Resolve ./game from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Resolve ./game from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Target(editor) ends with cost 1464.8897820001002ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/cc. Last mtime: Thu Jan 01 1970 05:31:11 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:30:24 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/cc
+debug: Resolve cce:/internal/x/cc-fu/base from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/base.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl.
+debug: Resolve cce:/internal/x/cc-fu/gfx-webgl2 from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/gfx-webgl2.
+debug: Resolve cce:/internal/x/cc-fu/2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/2d.
+debug: Resolve cce:/internal/x/cc-fu/ui from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/ui.
+debug: Resolve cce:/internal/x/cc-fu/physics-2d-box2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-2d-box2d.
+debug: Resolve cce:/internal/x/cc-fu/physics-2d-framework from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/physics-2d-framework.
+debug: Resolve cce:/internal/x/cc-fu/intersection-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/intersection-2d.
+debug: Resolve cce:/internal/x/cc-fu/profiler from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/profiler.
+debug: Resolve cce:/internal/x/cc-fu/particle-2d from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/particle-2d.
+debug: Resolve cce:/internal/x/cc-fu/audio from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/audio.
+debug: Resolve cce:/internal/x/cc-fu/video from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/video.
+debug: Resolve cce:/internal/x/cc-fu/webview from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/webview.
+debug: Resolve cce:/internal/x/cc-fu/tween from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tween.
+debug: Resolve cce:/internal/x/cc-fu/tiled-map from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/tiled-map.
+debug: Resolve cce:/internal/x/cc-fu/spine from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/spine.
+debug: Resolve cce:/internal/x/cc-fu/dragon-bones from cce:/internal/x/cc as external dependency cce:/internal/x/cc-fu/dragon-bones.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 10:46:10 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:30:50 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts.
+debug: Inspect file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts
+debug: Inspect file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts
+debug: Inspect file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts as cce:/internal/x/cc.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts as cce:/internal/x/cc.
+debug: Detected change: cce:/internal/code-quality/cr.mjs. Last mtime: Tue Jan 18 2022 22:03:28 GMT+0530 (India Standard Time), Current mtime: Wed Jan 19 2022 12:33:30 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/code-quality/cr.mjs
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve ./game from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Resolve ./game from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Target(preview) ends with cost 652.0308410001453ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:30:49 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:37:28 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts.
+debug: Inspect file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve ./game from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Target(editor) ends with cost 1531.0863850000314ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:30:50 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:37:29 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts.
+debug: Inspect file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve ./game from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Target(preview) ends with cost 150.08255399996415ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:37:28 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:41:12 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts.
+debug: Inspect file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve ./game from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Target(editor) ends with cost 135.99872900010087ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:37:29 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:41:12 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts.
+debug: Inspect file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve ./game from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Target(preview) ends with cost 136.58083500014618ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:41:12 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:43:24 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts.
+debug: Inspect file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve ./game from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Target(editor) ends with cost 123.6940609999001ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:41:12 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:43:24 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts.
+debug: Inspect file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve ./game from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Target(preview) ends with cost 160.26118399994448ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:43:24 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:46:25 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts.
+debug: Inspect file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve ./game from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Target(editor) ends with cost 151.94750700006261ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:43:24 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:46:25 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts.
+debug: Inspect file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve ./game from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Target(preview) ends with cost 163.51448599994183ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:46:25 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:52:06 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts.
+debug: Inspect file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve ./game from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Target(editor) ends with cost 129.6784959998913ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:46:25 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:52:06 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts.
+debug: Inspect file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve ./game from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Target(preview) ends with cost 166.91803700011224ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:52:06 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:53:34 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts.
+debug: Inspect file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve ./game from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Target(editor) ends with cost 225.86500900005922ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:52:06 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:53:34 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts.
+debug: Inspect file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve ./game from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Target(preview) ends with cost 240.8708420000039ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:53:34 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:57:23 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts.
+debug: Inspect file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts
+error: Failed to load module file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts: SyntaxError: unknown: Missing semicolon (62:14)
+
+  60 |     }
+  61 |     
+> 62 |     stepDown() {
+     |               ^
+  63 |
+  64 |         this.schedule(function () {
+  65 |             .
+debug: We're missing the chunk file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts, referenced as '[object Object]'.
+debug: Target(editor) ends with cost 438.5920119998045ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:53:34 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:57:23 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Inspect file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts
+error: Failed to load module file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts: SyntaxError: unknown: Missing semicolon (62:14)
+
+  60 |     }
+  61 |     
+> 62 |     stepDown() {
+     |               ^
+  63 |
+  64 |         this.schedule(function () {
+  65 |             .
+debug: We're missing the chunk file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts, referenced as '[object Object]'.
+debug: Target(preview) ends with cost 97.43405700009316ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:57:23 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:57:56 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts.
+debug: Inspect file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve ./game from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Target(editor) ends with cost 141.14120600000024ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:57:23 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:57:56 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts.
+debug: Inspect file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve ./game from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Target(preview) ends with cost 149.69831500016153ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:57:56 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:59:29 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts.
+debug: Inspect file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve ./game from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Target(editor) ends with cost 94.68650500010699ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:57:56 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 05:59:29 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts.
+debug: Inspect file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve ./game from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Target(preview) ends with cost 129.44655600003898ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:59:29 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:01:12 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts.
+debug: Inspect file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve ./game from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Target(editor) ends with cost 215.02997200004756ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 05:59:29 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:01:13 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts.
+debug: Inspect file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve ./game from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Target(preview) ends with cost 198.45064799999818ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:01:12 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:04:31 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts.
+debug: Inspect file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve ./game from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Target(editor) ends with cost 116.26093100011349ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:01:13 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:04:31 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts.
+debug: Inspect file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve ./game from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Target(preview) ends with cost 219.55134399980307ms.
+debug: Dispatch build request for time accumulated 2 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 2
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:04:31 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:07:17 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts.
+debug: Inspect file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts
+debug: Inspect file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts as cce:/internal/x/cc.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve ./game from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Resolve ./game from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Target(editor) ends with cost 145.6699670003727ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:04:31 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:07:17 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts.
+debug: Inspect file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts
+debug: Inspect file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve ./game from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts as cce:/internal/x/cc.
+debug: Resolve ./game from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Target(preview) ends with cost 216.2471380000934ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:07:17 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:11:18 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts.
+debug: Inspect file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 300.1203620005399ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:07:17 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:11:18 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts.
+debug: Inspect file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 255.93373699951917ms.
+debug: Dispatch build request for time accumulated 2 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 2
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:11:18 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:16:17 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts.
+debug: Inspect file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts
+debug: Inspect file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts as cce:/internal/x/cc.
+debug: Target(editor) ends with cost 250.29084799997509ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:11:18 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:16:17 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts.
+debug: Inspect file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts
+debug: Inspect file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts as cce:/internal/x/cc.
+debug: Target(preview) ends with cost 334.51054299995303ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:16:17 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:17:37 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Inspect file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve ./game from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Target(editor) ends with cost 104.75881300028414ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:16:17 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:17:37 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts.
+debug: Inspect file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve ./game from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Target(preview) ends with cost 175.35938300006092ms.
+debug: Dispatch build request for time accumulated 1 asset changes.
+debug: Build iteration starts.
+Number of accumulated asset changes: 1
+Feature changed: false
+debug: Target(editor) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:17:37 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:28:39 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts.
+debug: Inspect file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve ./game from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Target(editor) ends with cost 84.38964799977839ms.
+debug: Target(preview) build started.
+debug: Detected change: cce:/internal/x/prerequisite-imports. Last mtime: Thu Jan 01 1970 06:17:37 GMT+0530 (India Standard Time), Current mtime: Thu Jan 01 1970 06:28:39 GMT+0530 (India Standard Time)
+debug: Inspect cce:/internal/x/prerequisite-imports
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Resolve file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts from cce:/internal/x/prerequisite-imports as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/player.ts.
+debug: Inspect file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts
+debug: Resolve cce:/internal/code-quality/cr.mjs from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/code-quality/cr.mjs.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve cc from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as cce:/internal/x/cc.
+debug: Resolve ./game from file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts as file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/game.ts.
+debug: Target(preview) ends with cost 125.88865499943495ms.

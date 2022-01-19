@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "enemy",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 880,
+      "height": 530
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 880,
+      "height": 530
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "03db163c-b374-4931-9f0c-2626d2d4297c@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "D:\\Cocos\\Projects\\NewProject_1\\assets\\Sprites.meta": {
+    "time": 1642517167668.8933
+  },
+  "D:\\Cocos\\Projects\\NewProject_1\\assets\\Sprites": {
+    "time": 1642517224940.1692,
+    "uuid": "648e7671-d60f-4431-9443-2f21e4e4efd6",
+    "missing": false
+  },
+  "D:\\Cocos\\Projects\\NewProject_1\\assets\\Prefabs.meta": {
+    "time": 1642517174535.2861
+  },
+  "D:\\Cocos\\Projects\\NewProject_1\\assets\\Prefabs": {
+    "time": 1642520025495.3518,
+    "uuid": "ea2667f3-e0c9-42b1-b51c-d91e4a323d60",
+    "missing": false
+  },
+  "D:\\Cocos\\Projects\\NewProject_1\\assets\\Scripts.meta": {
+    "time": 1642517180044.6013
+  },
+  "D:\\Cocos\\Projects\\NewProject_1\\assets\\Scripts": {
+    "time": 1642578825791.5652,
+    "uuid": "c9113cf8-7e6c-4595-8273-ba0b62107573",
+    "missing": false
+  },
+  "D:\\Cocos\\Projects\\NewProject_1\\assets\\Scenes.meta": {
+    "time": 1642517191188.2385
+  },
+  "D:\\Cocos\\Projects\\NewProject_1\\assets\\Scenes": {
+    "time": 1642578277195.1873,
+    "uuid": "897141a7-68ae-4c30-87cf-dbd6d93c163c",
+    "missing": false
+  },
+  "D:\\Cocos\\Projects\\NewProject_1\\assets\\Scenes\\MainGame.scene.meta": {
+    "time": 1642517198905.6802
+  },
+  "D:\\Cocos\\Projects\\NewProject_1\\assets\\Scenes\\MainGame.scene": {
+    "time": 1642578390503.6682,
+    "uuid": "56710533-b1b5-4490-ae36-ae362f6a582b",
+    "missing": false
+  },
+  "D:\\Cocos\\Projects\\NewProject_1\\assets\\Sprites\\enemy.png.meta": {
+    "time": 1642517225001.1726
+  },
+  "D:\\Cocos\\Projects\\NewProject_1\\assets\\Sprites\\bullet red.png.meta": {
+    "time": 1642517225135.1804
+  },
+  "D:\\Cocos\\Projects\\NewProject_1\\assets\\Sprites\\player.png.meta": {
+    "time": 1642517225173.1826
+  },
+  "D:\\Cocos\\Projects\\NewProject_1\\assets\\Sprites\\enemy.png": {
+    "time": 1642351565442.6875,
+    "uuid": "03db163c-b374-4931-9f0c-2626d2d4297c",
+    "missing": false
+  },
+  "D:\\Cocos\\Projects\\NewProject_1\\assets\\Sprites\\bullet red.png": {
+    "time": 1642410171690.424,
+    "uuid": "ea654302-eef1-461b-855e-3c2004b16cbe",
+    "missing": false
+  },
+  "D:\\Cocos\\Projects\\NewProject_1\\assets\\Sprites\\player.png": {
+    "time": 1642351656058.8706,
+    "uuid": "c49db73e-3d50-41ae-b411-cee6b7c91735",
+    "missing": false
+  },
+  "D:\\Cocos\\Projects\\NewProject_1\\assets\\Scripts\\player.ts.meta": {
+    "time": 1642517299233.4185
+  },
+  "D:\\Cocos\\Projects\\NewProject_1\\assets\\Scripts\\player.ts": {
+    "time": 1642578586226.8628,
+    "uuid": "b8b6730e-039f-4046-87ec-c1eb66a41ce0",
+    "missing": false
+  },
+  "D:\\Cocos\\Projects\\NewProject_1\\assets\\Scripts\\enemy.ts.meta": {
+    "time": 1642518898321.881
+  },
+  "D:\\Cocos\\Projects\\NewProject_1\\assets\\Scripts\\enemy.ts": {
+    "time": 1642578825790.5652,
+    "uuid": "32e97f26-9690-4c72-ba65-d0b64181d919",
+    "missing": false
+  },
+  "D:\\Cocos\\Projects\\NewProject_1\\assets\\Prefabs\\bullet.prefab.meta": {
+    "time": 1642520025509.3525
+  },
+  "D:\\Cocos\\Projects\\NewProject_1\\assets\\Prefabs\\bullet.prefab": {
+    "time": 1642522999347.4463,
+    "uuid": "3eee414f-ecf7-49c4-8f57-357651a29e85",
+    "missing": false
+  },
+  "D:\\Cocos\\Projects\\NewProject_1\\assets\\Scripts\\game.ts.meta": {
+    "time": 1642520985109.2385
+  },
+  "D:\\Cocos\\Projects\\NewProject_1\\assets\\Scripts\\game.ts": {
+    "time": 1642578537685.0864,
+    "uuid": "a989ece6-f27b-4450-a60a-8fa78ad42e9c",
+    "missing": false
+  },
+  "D:\\Cocos\\Projects\\NewProject_1\\assets\\Scenes\\YouWin.scene.meta": {
+    "time": 1642536330730.958
+  },
+  "D:\\Cocos\\Projects\\NewProject_1\\assets\\Scenes\\YouWin.scene": {
+    "time": 1642536488523.9832,
+    "uuid": "f3ae3916-0769-4603-8959-ef40c120e5d8",
+    "missing": false
+  },
+  "D:\\Cocos\\Projects\\NewProject_1\\assets\\Scenes\\GameOver.scene.meta": {
+    "time": 1642536506216.995
+  },
+  "D:\\Cocos\\Projects\\NewProject_1\\assets\\Scenes\\GameOver.scene": {
+    "time": 1642536572057.761,
+    "uuid": "edaae177-4303-4ae1-b861-914f254d9732",
+    "missing": false
+  }
+}

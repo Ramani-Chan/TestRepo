@@ -1,0 +1,140 @@
+{
+  "log": {
+    "level": 4
+  },
+  "BuildTaskManager": {
+    "taskMap": {
+      "1642541379432": {
+        "id": "1642541379432",
+        "progress": 1,
+        "state": "success",
+        "message": "1-19-2022 03:02 Build success in 196596 ms!",
+        "options": {
+          "name": "NewProject_1",
+          "platform": "web-desktop",
+          "buildPath": "project://build",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "56710533-b1b5-4490-ae36-ae362f6a582b",
+          "scenes": [
+            {
+              "url": "db://assets/Scenes/MainGame.scene",
+              "uuid": "56710533-b1b5-4490-ae36-ae362f6a582b",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scenes/YouWin.scene",
+              "uuid": "f3ae3916-0769-4603-8959-ef40c120e5d8",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scenes/GmaeOver.scene",
+              "uuid": "edaae177-4303-4ae1-b861-914f254d9732",
+              "inBundle": false
+            }
+          ],
+          "outputName": "web-desktop",
+          "packages": {
+            "web-desktop": {
+              "resolution": {
+                "designWidth": 1280,
+                "designHeight": 960
+              },
+              "polyfills": {
+                "asyncFunctions": true
+              }
+            },
+            "cocos-service": {
+              "configID": "c964aa",
+              "services": []
+            }
+          }
+        },
+        "time": "1-19-2022 02:59",
+        "dirty": false
+      },
+      "1642543215289": {
+        "id": "1642543215289",
+        "progress": 0.1,
+        "state": "processing",
+        "message": "native:(make) start...",
+        "options": {
+          "name": "Hammer_1",
+          "platform": "windows",
+          "buildPath": "D:\\Cocos\\Outs",
+          "debug": false,
+          "md5Cache": false,
+          "sourceMaps": false,
+          "replaceSplashScreen": false,
+          "mainBundleCompressionType": "merge_dep",
+          "mainBundleIsRemote": false,
+          "mergeStartScene": false,
+          "experimentalEraseModules": false,
+          "compressTexture": true,
+          "packAutoAtlas": true,
+          "startScene": "56710533-b1b5-4490-ae36-ae362f6a582b",
+          "scenes": [
+            {
+              "url": "db://assets/Scenes/MainGame.scene",
+              "uuid": "56710533-b1b5-4490-ae36-ae362f6a582b",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scenes/YouWin.scene",
+              "uuid": "f3ae3916-0769-4603-8959-ef40c120e5d8",
+              "inBundle": false
+            },
+            {
+              "url": "db://assets/Scenes/GmaeOver.scene",
+              "uuid": "edaae177-4303-4ae1-b861-914f254d9732",
+              "inBundle": false
+            }
+          ],
+          "outputName": "windows",
+          "packages": {
+            "native": {
+              "polyfills": {
+                "asyncFunctions": true
+              },
+              "encrypted": false,
+              "xxteaKey": "3f5s2BrklKq572QC",
+              "compressZip": false,
+              "makeAfterBuild": false,
+              "JobSystem": "tbb"
+            },
+            "cocos-service": {
+              "configID": "c964aa",
+              "services": []
+            },
+            "windows": {
+              "renderBackEnd": {
+                "vulkan": false,
+                "gles3": true,
+                "gles2": true
+              },
+              "targetPlatform": "x64"
+            }
+          }
+        },
+        "time": "1-19-2022 03:30",
+        "dirty": false
+      }
+    }
+  },
+  "common": {
+    "name": "Hammer_1",
+    "buildPath": "D:\\Cocos\\Outs",
+    "sourceMaps": false,
+    "outputName": "windows",
+    "mainBundleCompressionType": "merge_dep",
+    "platform": "windows"
+  }
+}

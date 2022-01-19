@@ -1,0 +1,16 @@
+{
+  "options": {
+    "web-desktop": {
+      "configID": "c964aa",
+      "services": []
+    },
+    "windows": {
+      "configID": "c964aa",
+      "services": []
+    }
+  },
+  "builder-options": {
+    "configID": "c964aa",
+    "services": []
+  }
+}

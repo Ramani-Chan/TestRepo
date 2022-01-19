@@ -1,0 +1,53 @@
+[
+    1,
+    [
+        "eaZUMC7vFGG4VePCAEsWy+@6c48a"
+    ],
+    [
+        "_textureSource"
+    ],
+    [
+        "cc.SpriteFrame"
+    ],
+    0,
+    [
+        {
+            "name": "bullet red",
+            "rect": {
+                "x": 124,
+                "y": 162,
+                "width": 975,
+                "height": 900
+            },
+            "offset": {
+                "x": 13.5,
+                "y": -14
+            },
+            "originalSize": {
+                "width": 1196,
+                "height": 1196
+            },
+            "rotated": false,
+            "capInsets": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "packable": true
+        }
+    ],
+    [
+        0
+    ],
+    0,
+    [
+        0
+    ],
+    [
+        0
+    ],
+    [
+        0
+    ]
+]

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bullet red",
+    "atlas": "",
+    "rect": {
+      "x": 124,
+      "y": 162,
+      "width": 975,
+      "height": 900
+    },
+    "offset": {
+      "x": 13.5,
+      "y": -14
+    },
+    "originalSize": {
+      "width": 1196,
+      "height": 1196
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "ea654302-eef1-461b-855e-3c2004b16cbe@6c48a",
+    "packable": true
+  }
+}

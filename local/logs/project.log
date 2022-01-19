@@ -1,0 +1,215 @@
+2022-01-19 12:33:45-log: [Package] menu@1.0.0 enable
+2022-01-19 12:33:45-log: [Package] profile@1.0.0 enable
+2022-01-19 12:33:45-log: [Package] project@1.0.1 enable
+2022-01-19 12:33:45-log: [Package] messages@1.0.0 enable
+2022-01-19 12:33:45-log: [Package] program@1.0.0 enable
+2022-01-19 12:33:45-log: [Package] device@1.0.1 enable
+2022-01-19 12:33:45-log: [Package] ui-kit@1.0.1 enable
+2022-01-19 12:33:45-log: [Package] tester@1.0.0 enable
+2022-01-19 12:33:45-log: [Package] preferences@1.0.0 enable
+2022-01-19 12:33:47-log: Setup mods mgr.: 652.59ms
+2022-01-19 12:33:47-log: [Package] engine@1.0.5 enable
+2022-01-19 12:33:54-log: [Package] programming@1.0.0 enable
+2022-01-19 12:33:54-log: [Package] engine-extends@1.0.0 enable
+2022-01-19 12:33:54-log: [Package] asset-db@1.0.0 enable
+2022-01-19 12:33:54-log: [Package] console@1.0.0 enable
+2022-01-19 12:33:55-log: [Package] scene@1.0.0 enable
+2022-01-19 12:33:55-log: [Package] about@1.0.0 enable
+2022-01-19 12:33:55-log: [Package] server@1.0.0 enable
+2022-01-19 12:33:56-log: [Package] utils@1.0.0 enable
+2022-01-19 12:33:56-log: [Package] assets@1.0.0 enable
+2022-01-19 12:33:56-log: [Package] inspector@1.0.0 enable
+2022-01-19 12:33:56-log: [Package] hierarchy@1.0.0 enable
+2022-01-19 12:34:02-log: [Package] preview@1.0.1 enable
+2022-01-19 12:34:02-log: [Package] animator@1.0.0 enable
+2022-01-19 12:34:05-log: [Package] builder@1.3.0 enable
+2022-01-19 12:34:05-log: [Package] node-library@1.0.0 enable
+2022-01-19 12:34:06-log: [Package] shortcuts@1.0.1 enable
+2022-01-19 12:34:06-log: [Package] package-asset@1.0.0 enable
+2022-01-19 12:34:06-log: [Package] reference-image@1.0.0 enable
+2022-01-19 12:34:06-log: [Package] animation-graph@1.0.0 enable
+2022-01-19 12:34:06-log: [Package] channel-upload-tools@1.0.0 enable
+2022-01-19 12:34:06-log: [Package] runtime-dev-tools@1.0.0 enable
+2022-01-19 12:34:06-log: [Package] lightmap@1.0.4 enable
+2022-01-19 12:34:06-log: [Package] alipay-mini-game@1.0.0 enable
+2022-01-19 12:34:06-log: [Package] android@1.0.0 enable
+2022-01-19 12:34:06-log: [Package] baidu-mini-game@1.0.0 enable
+2022-01-19 12:34:06-log: [Package] bytedance-mini-game@1.0.1 enable
+2022-01-19 12:34:06-log: [Package] huawei-agc@1.0.0 enable
+2022-01-19 12:34:06-log: [Package] ios@1.0.0 enable
+2022-01-19 12:34:06-log: [Package] ios-app-clip@1.0.0 enable
+2022-01-19 12:34:06-log: [Package] mac@1.0.0 enable
+2022-01-19 12:34:09-log: [Package] native@1.0.0 enable
+2022-01-19 12:34:09-log: [Package] ohos@1.0.0 enable
+2022-01-19 12:34:09-log: [Package] web-desktop@1.0.0 enable
+2022-01-19 12:34:09-log: [Package] web-mobile@1.0.0 enable
+2022-01-19 12:34:09-log: [Package] wechatgame@1.0.1 enable
+2022-01-19 12:34:09-log: [Package] windows@1.0.0 enable
+2022-01-19 12:34:09-log: [Package] xiaomi-quick-game@1.0.0 enable
+2022-01-19 12:34:09-log: [Package] cocos-play@1.0.0 enable
+2022-01-19 12:34:09-log: [Package] huawei-quick-game@1.0.0 enable
+2022-01-19 12:34:09-log: [Package] link-sure@1.0.0 enable
+2022-01-19 12:34:09-log: [Package] oppo-mini-game@1.0.0 enable
+2022-01-19 12:34:10-log: [Package] qtt@1.0.0 enable
+2022-01-19 12:34:10-log: [Package] vivo-mini-game@1.0.0 enable
+2022-01-19 12:34:11-log: [Package] cocos-service@3.0.2 enable
+2022-01-19 12:34:11-log: [Package] importer@1.0.0 enable
+2022-01-19 12:34:12-log: [Package] extension@3.0.13 enable
+2022-01-19 12:34:13-log: [Im-plugin] Check im-plugin version.
+2022-01-19 12:34:13-log: [Package] im-plugin@3.0.8 enable
+2022-01-19 12:34:20-log: [Scene] begin init
+2022-01-19 12:34:20-log: [Scene] require engine end
+2022-01-19 12:34:21-log: [Scene] Serialize end
+2022-01-19 12:34:21-log: [Scene] configureStartup end
+2022-01-19 12:34:21-error: [Scene] This device does not support WebGL.
+2022-01-19 12:34:21-log: [Scene] Cocos Creator v3.4.0
+2022-01-19 12:34:21-info: [Scene] Forward render pipeline initialized.
+2022-01-19 12:34:23-log: [Scene] openEngine end
+2022-01-19 12:34:23-log: [Scene] configureEngine end
+2022-01-19 12:34:24-log: [Im-plugin] No online info of im-plugin.
+2022-01-19 13:00:53-error: Failed to load module file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts: SyntaxError: unknown: Missing semicolon (62:14)
+
+  60 |     }
+  61 |     
+> 62 |     stepDown() {
+     |               ^
+  63 |
+  64 |         this.schedule(function () {
+  65 |             .
+2022-01-19 13:00:53-error: Failed to load module file:///D:/Cocos/Projects/NewProject_1/assets/Scripts/enemy.ts: SyntaxError: unknown: Missing semicolon (62:14)
+
+  60 |     }
+  61 |     
+> 62 |     stepDown() {
+     |               ^
+  63 |
+  64 |         this.schedule(function () {
+  65 |             .
+2022-01-19 13:00:54-warn: [Scene] Missing class: 32e978mlpBMcrpl0LZBgdkZ
+2022-01-19 13:00:54-error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0
+2022-01-19 13:00:54-warn: [Scene] Missing class: 32e978mlpBMcrpl0LZBgdkZ
+2022-01-19 13:00:54-error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0
+2022-01-19 13:00:54-warn: [Scene] Missing class: 32e978mlpBMcrpl0LZBgdkZ
+2022-01-19 13:00:54-error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0
+2022-01-19 13:00:54-warn: [Scene] Missing class: 32e978mlpBMcrpl0LZBgdkZ
+2022-01-19 13:00:54-error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0
+2022-01-19 13:00:54-warn: [Scene] Missing class: 32e978mlpBMcrpl0LZBgdkZ
+2022-01-19 13:00:54-error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0
+2022-01-19 13:00:54-warn: [Scene] Missing class: 32e978mlpBMcrpl0LZBgdkZ
+2022-01-19 13:00:54-error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0
+2022-01-19 13:00:54-warn: [Scene] Missing class: 32e978mlpBMcrpl0LZBgdkZ
+2022-01-19 13:00:54-error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0
+2022-01-19 13:00:54-warn: [Scene] Missing class: 32e978mlpBMcrpl0LZBgdkZ
+2022-01-19 13:00:54-error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0
+2022-01-19 13:00:54-warn: [Scene] Missing class: 32e978mlpBMcrpl0LZBgdkZ
+2022-01-19 13:00:54-error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0
+2022-01-19 13:00:54-warn: [Scene] Missing class: 32e978mlpBMcrpl0LZBgdkZ
+2022-01-19 13:00:54-error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0
+2022-01-19 13:00:54-warn: [Scene] Missing class: 32e978mlpBMcrpl0LZBgdkZ
+2022-01-19 13:00:54-error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0
+2022-01-19 13:00:54-warn: [Scene] Missing class: 32e978mlpBMcrpl0LZBgdkZ
+2022-01-19 13:00:54-error: [Scene] Error when checking MissingScript 7, SyntaxError: Unexpected token u in JSON at position 0
+2022-01-19 13:00:54-error: [Scene] Script "32e978mlpBMcrpl0LZBgdkZ" attached to "enemy" is missing or invalid. Detailed information:
+Script UUID: "32e97f26-9690-4c72-ba65-d0b64181d919"
+Class ID: "32e978mlpBMcrpl0LZBgdkZ"
+
+2022-01-19 13:00:54-error: [Scene] Script "32e978mlpBMcrpl0LZBgdkZ" attached to "enemy-001" is missing or invalid. Detailed information:
+Script UUID: "32e97f26-9690-4c72-ba65-d0b64181d919"
+Class ID: "32e978mlpBMcrpl0LZBgdkZ"
+
+2022-01-19 13:00:54-error: [Scene] Script "32e978mlpBMcrpl0LZBgdkZ" attached to "enemy-002" is missing or invalid. Detailed information:
+Script UUID: "32e97f26-9690-4c72-ba65-d0b64181d919"
+Class ID: "32e978mlpBMcrpl0LZBgdkZ"
+
+2022-01-19 13:00:54-error: [Scene] Script "32e978mlpBMcrpl0LZBgdkZ" attached to "enemy-003" is missing or invalid. Detailed information:
+Script UUID: "32e97f26-9690-4c72-ba65-d0b64181d919"
+Class ID: "32e978mlpBMcrpl0LZBgdkZ"
+
+2022-01-19 13:00:54-error: [Scene] Script "32e978mlpBMcrpl0LZBgdkZ" attached to "enemy-004" is missing or invalid. Detailed information:
+Script UUID: "32e97f26-9690-4c72-ba65-d0b64181d919"
+Class ID: "32e978mlpBMcrpl0LZBgdkZ"
+
+2022-01-19 13:00:54-error: [Scene] Script "32e978mlpBMcrpl0LZBgdkZ" attached to "enemy-005" is missing or invalid. Detailed information:
+Script UUID: "32e97f26-9690-4c72-ba65-d0b64181d919"
+Class ID: "32e978mlpBMcrpl0LZBgdkZ"
+
+2022-01-19 13:00:54-error: [Scene] Script "32e978mlpBMcrpl0LZBgdkZ" attached to "enemy-006" is missing or invalid. Detailed information:
+Script UUID: "32e97f26-9690-4c72-ba65-d0b64181d919"
+Class ID: "32e978mlpBMcrpl0LZBgdkZ"
+
+2022-01-19 13:00:54-error: [Scene] Script "32e978mlpBMcrpl0LZBgdkZ" attached to "enemy-007" is missing or invalid. Detailed information:
+Script UUID: "32e97f26-9690-4c72-ba65-d0b64181d919"
+Class ID: "32e978mlpBMcrpl0LZBgdkZ"
+
+2022-01-19 13:00:54-error: [Scene] Script "32e978mlpBMcrpl0LZBgdkZ" attached to "enemy-008" is missing or invalid. Detailed information:
+Script UUID: "32e97f26-9690-4c72-ba65-d0b64181d919"
+Class ID: "32e978mlpBMcrpl0LZBgdkZ"
+
+2022-01-19 13:00:54-error: [Scene] Script "32e978mlpBMcrpl0LZBgdkZ" attached to "enemy-009" is missing or invalid. Detailed information:
+Script UUID: "32e97f26-9690-4c72-ba65-d0b64181d919"
+Class ID: "32e978mlpBMcrpl0LZBgdkZ"
+
+2022-01-19 13:00:54-error: [Scene] Script "32e978mlpBMcrpl0LZBgdkZ" attached to "enemy-010" is missing or invalid. Detailed information:
+Script UUID: "32e97f26-9690-4c72-ba65-d0b64181d919"
+Class ID: "32e978mlpBMcrpl0LZBgdkZ"
+
+2022-01-19 13:00:54-error: [Scene] Script "32e978mlpBMcrpl0LZBgdkZ" attached to "enemy-011" is missing or invalid. Detailed information:
+Script UUID: "32e97f26-9690-4c72-ba65-d0b64181d919"
+Class ID: "32e978mlpBMcrpl0LZBgdkZ"
+
+2022-01-19 13:00:54-error: [Scene] Script "32e978mlpBMcrpl0LZBgdkZ" attached to "enemy" is missing or invalid. Detailed information:
+Script UUID: "32e97f26-9690-4c72-ba65-d0b64181d919"
+Class ID: "32e978mlpBMcrpl0LZBgdkZ"
+
+2022-01-19 13:00:54-error: [Scene] Script "32e978mlpBMcrpl0LZBgdkZ" attached to "enemy-001" is missing or invalid. Detailed information:
+Script UUID: "32e97f26-9690-4c72-ba65-d0b64181d919"
+Class ID: "32e978mlpBMcrpl0LZBgdkZ"
+
+2022-01-19 13:00:54-error: [Scene] Script "32e978mlpBMcrpl0LZBgdkZ" attached to "enemy-002" is missing or invalid. Detailed information:
+Script UUID: "32e97f26-9690-4c72-ba65-d0b64181d919"
+Class ID: "32e978mlpBMcrpl0LZBgdkZ"
+
+2022-01-19 13:00:54-error: [Scene] Script "32e978mlpBMcrpl0LZBgdkZ" attached to "enemy-003" is missing or invalid. Detailed information:
+Script UUID: "32e97f26-9690-4c72-ba65-d0b64181d919"
+Class ID: "32e978mlpBMcrpl0LZBgdkZ"
+
+2022-01-19 13:00:54-error: [Scene] Script "32e978mlpBMcrpl0LZBgdkZ" attached to "enemy-004" is missing or invalid. Detailed information:
+Script UUID: "32e97f26-9690-4c72-ba65-d0b64181d919"
+Class ID: "32e978mlpBMcrpl0LZBgdkZ"
+
+2022-01-19 13:00:54-error: [Scene] Script "32e978mlpBMcrpl0LZBgdkZ" attached to "enemy-005" is missing or invalid. Detailed information:
+Script UUID: "32e97f26-9690-4c72-ba65-d0b64181d919"
+Class ID: "32e978mlpBMcrpl0LZBgdkZ"
+
+2022-01-19 13:00:54-error: [Scene] Script "32e978mlpBMcrpl0LZBgdkZ" attached to "enemy-006" is missing or invalid. Detailed information:
+Script UUID: "32e97f26-9690-4c72-ba65-d0b64181d919"
+Class ID: "32e978mlpBMcrpl0LZBgdkZ"
+
+2022-01-19 13:00:54-error: [Scene] Script "32e978mlpBMcrpl0LZBgdkZ" attached to "enemy-007" is missing or invalid. Detailed information:
+Script UUID: "32e97f26-9690-4c72-ba65-d0b64181d919"
+Class ID: "32e978mlpBMcrpl0LZBgdkZ"
+
+2022-01-19 13:00:54-error: [Scene] Script "32e978mlpBMcrpl0LZBgdkZ" attached to "enemy-008" is missing or invalid. Detailed information:
+Script UUID: "32e97f26-9690-4c72-ba65-d0b64181d919"
+Class ID: "32e978mlpBMcrpl0LZBgdkZ"
+
+2022-01-19 13:00:54-error: [Scene] Script "32e978mlpBMcrpl0LZBgdkZ" attached to "enemy-009" is missing or invalid. Detailed information:
+Script UUID: "32e97f26-9690-4c72-ba65-d0b64181d919"
+Class ID: "32e978mlpBMcrpl0LZBgdkZ"
+
+2022-01-19 13:00:54-error: [Scene] Script "32e978mlpBMcrpl0LZBgdkZ" attached to "enemy-010" is missing or invalid. Detailed information:
+Script UUID: "32e97f26-9690-4c72-ba65-d0b64181d919"
+Class ID: "32e978mlpBMcrpl0LZBgdkZ"
+
+2022-01-19 13:00:54-error: [Scene] Script "32e978mlpBMcrpl0LZBgdkZ" attached to "enemy-011" is missing or invalid. Detailed information:
+Script UUID: "32e97f26-9690-4c72-ba65-d0b64181d919"
+Class ID: "32e978mlpBMcrpl0LZBgdkZ"
+
+2022-01-19 13:00:56-error: [Preview]Unable to resolve bare specifier '__unresolved_0' from http://localhost:7456/scripting/x/mods/cce/internal/x/prerequisite-imports.js (SystemJS Error#8 https://git.io/JvFET#8)
+2022-01-19 13:00:57-error: [Preview]Error: Unable to resolve bare specifier '__unresolved_0' from http://localhost:7456/scripting/x/mods/cce/internal/x/prerequisite-imports.js (SystemJS Error#8 https://git.io/JvFET#8)
+    at throwUnresolved (http://localhost:7456/scripting/systemjs/system.js:696:11)
+    at SystemJS.systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:692:102)
+    at SystemJS.systemJSPrototype.resolve (http://localhost:7456/scripting/systemjs/system.js:1048:24)
+    at http://localhost:7456/scripting/systemjs/system.js:335:39
+    at Array.map (<anonymous>)
+    at http://localhost:7456/scripting/systemjs/system.js:333:43
